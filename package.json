@@ -1,0 +1,24 @@
+{
+  "name": "yadokari",
+  "version": "1.0.0",
+  "description": "",
+  "main": "yadokari.js",
+  "preferGlobal": true,
+  "bin": "./yadokari.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cal.js": "^1.1.3",
+    "cli-cal": "^1.0.5",
+    "co": "^4.6.0",
+    "co-prompt": "^1.0.0",
+    "commander": "^2.9.0",
+    "inquirer": "^3.0.6",
+    "shelljs": "^0.8.1"
+  }
+}
